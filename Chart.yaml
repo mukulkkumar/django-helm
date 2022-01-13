@@ -1,0 +1,13 @@
+apiVersion: v2
+name: django-proj
+version: 9.0.3
+description: Django Web admin portal
+keywords: 
+  - Django
+  - Python
+  - Web
+sources:
+  - https://github.com/mukulkkumar/django-helm.git
+maintainers:
+  - email: mukulkkumarr@gmail.com
+    name: Mukul kumar
